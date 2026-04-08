@@ -48,7 +48,8 @@
 
 ## 🚀 Projeto em Destaque
 
-- 🔹 AgroScan — Indentificação e recomendação de terrenos  
+- 🔹 AgroScan — Indentificação e recomendação de terrenos
+- 🔹 Froggy Wallet — Gerenciador e controlador financeiro
 
 ---
 
